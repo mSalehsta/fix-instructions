@@ -1,5 +1,3 @@
-//Adaptation of @stillalex's script from here https://gist.github.com/stillalex/06303f8cc1d3780d3eab4c72575883ae
-//This version works with Oak 1.6 and later versions
 import java.io.InputStream;
 import java.util.concurrent.atomic.AtomicInteger
 import org.apache.jackrabbit.oak.api.Type
